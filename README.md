@@ -1,31 +1,31 @@
-#📖 Contact Book
-#📌 Overview
+📖 Contact Book
+📌 Overview
 
-#A command-line contact book to store, search, update, and delete contact information.
-#Built as a Data Structures project using linked lists for storage.
-#Supports alphabetically sorted insertion, searching, updating, deletion, and file storage for persistence.
+A command-line contact book to store, search, update, and delete contact information.
+Built as a Data Structures project using linked lists for storage.
+Supports alphabetically sorted insertion, searching, updating, deletion, and file storage for persistence.
 
-#🛠 Features
+🛠 Features
 
-#Add new contact (name, phone, email)
+Add new contact (name, phone, email)
 
-#View all contacts in alphabetical order
+View all contacts in alphabetical order
 
-#Search contacts by name
+Search contacts by name
 
-#Update contact details (phone/email)
+Update contact details (phone/email)
 
-#Delete a contact
+Delete a contact
 
-#Save & load contacts from file
+Save & load contacts from file
 
-#📂 Data Structures Used
+📂 Data Structures Used
 
-#Linked List (Self-referential structure) → Each node stores a contact and pointer to next contact
+Linked List (Self-referential structure) → Each node stores a contact and pointer to next contact
 
-#Alphabetical Insertion → New contacts automatically inserted in sorted order
+Alphabetical Insertion → New contacts automatically inserted in sorted order
 
-#Searching → Linear search by name
+Searching → Linear search by name
 
 Updating/Deleting → Traversing linked list and modifying/removing a node
 
